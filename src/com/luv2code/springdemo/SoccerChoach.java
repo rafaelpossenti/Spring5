@@ -5,4 +5,10 @@ public class SoccerChoach implements Coach{
 	public String getDailyWorkout() {
 		return "play soccer everyday at nine O'clock";
 	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
